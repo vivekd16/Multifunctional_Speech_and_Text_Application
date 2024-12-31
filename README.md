@@ -1,7 +1,7 @@
 
 # Multifunctional Speech and Text Application  
 
-### 🚀 Live Demo on Hugging Face: [Click Here](https://huggingface.co/spaces/Vivek6041/Speech_Text_Processor)
+### 🚀 Live Demo : [Click Here](https://multifunctionalspeechandtextapplication-nudtfxnzruw9xvmmnbu7qe.streamlit.app/?embed_options=dark_theme)
 
 ---
 
